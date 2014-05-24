@@ -1,0 +1,27 @@
+# django
+*.log
+*.pot
+*.pyc
+*.swp
+local_settings.py
+*migrations*
+
+# static
+media
+data
+
+# scrapper
+scrapper
+
+# database
+*.json
+*.sqlite3
+
+# node.js
+node*
+
+# etc
+venv
+run.sh
+testcase.py
+cheatsheet.md
